@@ -30,7 +30,7 @@ global.sig = 'https://instagram.com/lordagam23_'
 global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
 global.sgh = 'https://github.com/KazeDevID/'
 global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
+global.swa = 'wa.me/6287824896245'
 global.stg = 't.me/KenalSayaaa'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
@@ -45,10 +45,10 @@ global.ppulsa2 = '082217590187'
 global.psaweria = 'https://saweria.co/KazeDevID'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '6285892778812'
+global.nomorown = '6287824896245'
+global.namebot = 'GasBot'
+global.nameown = 'BagasOFFC'
 
 
 /*============== STAFF ==============*/
